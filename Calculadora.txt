@@ -1,0 +1,5 @@
+Aqui estão todas as operações com o número 5 e 10: 
+ Soma: 15
+ Subtração: 5
+ Multiplicação: 50
+ Divisão: 2
